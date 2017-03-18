@@ -1,0 +1,188 @@
+{
+    "android_gradle_plugin_version": "2.3.0",
+    "apk_path": "E:\\Project\\ZiHu\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "E:\\Project\\ZiHu\\app\\build\\freeline",
+    "build_directory": "E:\\Project\\ZiHu\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "C:\\Users\\Qin\\AppData\\Local\\Android\\Sdk\\build-tools\\25.0.0",
+    "build_tools_version": "25.0.0",
+    "check_sources_md5": [
+        
+    ],
+    "compile_sdk_directory": "C:\\Users\\Qin\\AppData\\Local\\Android\\Sdk\\platforms\\android-25",
+    "compile_sdk_version": "android-25",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.qin.zihu",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "E:\\Project\\ZiHu",
+    "freeline_gradle_plugin_version": "0.8.6",
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "java_home": "D:\\Java\\jdk1.8",
+    "launcher": "com.qin.zihu.module.auth.LoginActivity",
+    "main_assets_directory": [
+        "E:\\Project\\ZiHu\\app\\src\\debug\\assets",
+        "E:\\Project\\ZiHu\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "E:\\Project\\ZiHu\\app\\src\\debug\\jniLibs",
+        "E:\\Project\\ZiHu\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "E:\\Project\\ZiHu\\app\\src\\debug\\jni",
+        "E:\\Project\\ZiHu\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "E:\\Project\\ZiHu\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "E:\\Project\\ZiHu\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "E:\\Project\\ZiHu\\app\\src\\debug\\res",
+        "E:\\Project\\ZiHu\\app\\src\\main\\res\\layouts\\base",
+        "E:\\Project\\ZiHu\\app\\src\\main\\res\\layouts\\banner",
+        "E:\\Project\\ZiHu\\app\\src\\main\\res\\layouts\\auth",
+        "E:\\Project\\ZiHu\\app\\src\\main\\res\\layouts",
+        "E:\\Project\\ZiHu\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "E:\\Project\\ZiHu\\app\\src\\debug\\java",
+        "E:\\Project\\ZiHu\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            "imagepicker",
+            "minzeabase"
+        ],
+        "imagepicker": [
+            
+        ],
+        "minzeabase": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "E:\\Project\\ZiHu\\app"
+        },
+        {
+            "name": "imagepicker",
+            "path": "E:\\Project\\ZiHu\\imagepicker"
+        },
+        {
+            "name": "minzeabase",
+            "path": "E:\\Project\\ZiHu\\minzeabase"
+        }
+    ],
+    "package": "com.qin.zihu",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "E:\\Project\\ZiHu\\app\\src\\debug\\assets",
+                "E:\\Project\\ZiHu\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "E:\\Project\\ZiHu\\app\\src\\debug\\jniLibs",
+                "E:\\Project\\ZiHu\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "E:\\Project\\ZiHu\\app\\src\\debug\\jni",
+                "E:\\Project\\ZiHu\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "E:\\Project\\ZiHu\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "E:\\Project\\ZiHu\\app\\src\\debug\\res",
+                "E:\\Project\\ZiHu\\app\\src\\main\\res\\layouts\\base",
+                "E:\\Project\\ZiHu\\app\\src\\main\\res\\layouts\\banner",
+                "E:\\Project\\ZiHu\\app\\src\\main\\res\\layouts\\auth",
+                "E:\\Project\\ZiHu\\app\\src\\main\\res\\layouts",
+                "E:\\Project\\ZiHu\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "E:\\Project\\ZiHu\\app\\src\\debug\\java",
+                "E:\\Project\\ZiHu\\app\\src\\main\\java"
+            ]
+        },
+        "imagepicker": {
+            "main_assets_directory": [
+                "E:\\Project\\ZiHu\\imagepicker\\src\\release\\assets",
+                "E:\\Project\\ZiHu\\imagepicker\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "E:\\Project\\ZiHu\\imagepicker\\src\\release\\jniLibs",
+                "E:\\Project\\ZiHu\\imagepicker\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "E:\\Project\\ZiHu\\imagepicker\\src\\release\\jni",
+                "E:\\Project\\ZiHu\\imagepicker\\src\\main\\jni"
+            ],
+            "main_manifest_path": "E:\\Project\\ZiHu\\imagepicker\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "E:\\Project\\ZiHu\\imagepicker\\src\\release\\res",
+                "E:\\Project\\ZiHu\\imagepicker\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "E:\\Project\\ZiHu\\imagepicker\\src\\release\\java",
+                "E:\\Project\\ZiHu\\imagepicker\\src\\main\\java"
+            ]
+        },
+        "minzeabase": {
+            "main_assets_directory": [
+                "E:\\Project\\ZiHu\\minzeabase\\src\\release\\assets",
+                "E:\\Project\\ZiHu\\minzeabase\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "E:\\Project\\ZiHu\\minzeabase\\src\\release\\jniLibs",
+                "E:\\Project\\ZiHu\\minzeabase\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "E:\\Project\\ZiHu\\minzeabase\\src\\release\\jni",
+                "E:\\Project\\ZiHu\\minzeabase\\src\\main\\jni"
+            ],
+            "main_manifest_path": "E:\\Project\\ZiHu\\minzeabase\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "E:\\Project\\ZiHu\\minzeabase\\src\\release\\res",
+                "E:\\Project\\ZiHu\\minzeabase\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "E:\\Project\\ZiHu\\minzeabase\\src\\release\\java",
+                "E:\\Project\\ZiHu\\minzeabase\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "E:\\Project\\ZiHu",
+    "sdk_directory": "C:\\Users\\Qin\\AppData\\Local\\Android\\Sdk",
+    "use_jdk8": true,
+    "use_system_gradle": false
+}

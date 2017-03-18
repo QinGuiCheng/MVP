@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MinzeaBase</string>
+
+    <string name="multiple_status_view_tips_empty">暂无数据，点击重试</string>
+    <string name="multiple_status_view_tips_no_network">无网络，点击重试</string>
+    <string name="multiple_status_view_tips_error">请求失败，点击重试</string>
+
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+</resources>
